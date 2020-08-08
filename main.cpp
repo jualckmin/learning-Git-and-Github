@@ -1,5 +1,5 @@
 #include <iostream>
 
 int main(void) {
-    std::cout << "msg" << endl; //error
+    std::cout << "msg" << std::endl;
 }
